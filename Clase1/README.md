@@ -52,7 +52,26 @@ Encontrar patrones relevantes en la data sin modificacion
 * *Feature Extraction:* hay que quedarse con lo necesario.
 * *Feature Transformation:* Se modela la info, "tallandola", para tenerla como se necesita.
 
+![Imagen2](Imagenes/scikitlearn.png)
 
+## 5. Modeling
+
+* Train -> Entrenamiento
+* Test -> testing
+
+* Clasificación 
+* Regresión
+* Clustering
+
+## 6. Tunnning
+
+* Darle un conjunto de Parametros al modelo, de tal manera que de un tiempo 
+* Se puede hacer con GridSearch & RandomSearch
+
+## 7. Deployment
+
+* Persistencia: Model.m -> 10 MB
+ 
 
 
 
