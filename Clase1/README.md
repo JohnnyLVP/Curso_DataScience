@@ -4,11 +4,30 @@ Se encuentra en la interseccion de las habilidades de Hacking (OS,Python, Base d
 
 Data Science, toma parte del Machine Learning (Modelos)
 
-![Imagen1](Imagenes/ciencia-de-datos.png)
+<center>![Imagen1](Imagenes/ciencia-de-datos.png)</center>
 
 ## Tipo de Datos: 
 
-![Imagen1](Imagenes/piramidedatos.png)
+<center>![Imagen2](Imagenes/piramidedatos.png)</center>
+
+## Exploracion de Datos (EDA)
+
+Encontrar patrones relevantes en la data sin modificacion
+
+## Preproccesing
+
+* Limpieza, depuracion de datos
+* Transformacion de los datos
+
+## PreProccesing con Python
+
+### Python Ecosystem
+
+* El creador es Van russel 
+* Beneficios:
+<center>![Imagen2](Imagenes/features-of-python.png)</center>	
+
+
 
 
 
