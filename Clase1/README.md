@@ -25,9 +25,11 @@ Encontrar patrones relevantes en la data sin modificacion
 
 * El creador es Van russel 
 * Beneficios:
-<p align="center">
-![Imagen3](Imagenes/features-of-python.png) 
-</p>
+
+![Imagen3](Imagenes/features-of-python.png "Features of Python")
+
+
+
 
 
 
