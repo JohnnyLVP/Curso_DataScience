@@ -4,11 +4,11 @@ Se encuentra en la interseccion de las habilidades de Hacking (OS,Python, Base d
 
 Data Science, toma parte del Machine Learning (Modelos)
 
-<center>![Imagen1](Imagenes/ciencia-de-datos.png)</center>
+[Imagen1](Imagenes/ciencia-de-datos.png)
 
 ## Tipo de Datos: 
 
-<center>![Imagen2](Imagenes/piramidedatos.png)</center>
+![Imagen2](Imagenes/piramidedatos.png)
 
 ## Exploracion de Datos (EDA)
 
