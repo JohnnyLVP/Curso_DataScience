@@ -46,6 +46,13 @@ Encontrar patrones relevantes en la data sin modificacion
 * Escalamiento
 * Normalización
 
+## 4. Feature Engineering
+
+* *Feature Selection:* Si hay columnas redundantes el modelo saldra erroneo, habra mucho ruido.
+* *Feature Extraction:* hay que quedarse con lo necesario.
+* *Feature Transformation:* Se modela la info, "tallandola", para tenerla como se necesita.
+
+
 
 
 
