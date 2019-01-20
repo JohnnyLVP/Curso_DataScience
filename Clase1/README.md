@@ -4,7 +4,7 @@ Se encuentra en la interseccion de las habilidades de Hacking (OS,Python, Base d
 
 Data Science, toma parte del Machine Learning (Modelos)
 
-![Imagen1](Imagenes/ciencia-de-datos.png)
+![Imagen1](Imagenes/ciencia-de-datos.png =100x80 =style=centerme)
 
 ## 1. Tipo de Datos: 
 
