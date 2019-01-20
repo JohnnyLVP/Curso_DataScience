@@ -11,7 +11,7 @@ Data Science, toma parte del Machine Learning (Modelos)
 ## 1. Tipo de Datos: 
 
 <p align="center">
-	<img width="400" height=500" src="http://3.bp.blogspot.com/-RngguMea6hA/VkAdN05YEqI/AAAAAAAABQE/iT6QP-9A7hE/s1600/piramide.png">
+	<img width="600" height=400" src="http://3.bp.blogspot.com/-RngguMea6hA/VkAdN05YEqI/AAAAAAAABQE/iT6QP-9A7hE/s1600/piramide.png">
 </p>
 
 ## 2. Exploracion de Datos (EDA)
@@ -61,7 +61,7 @@ Encontrar patrones relevantes en la data sin modificacion
 
 
 <p align="center">
-	<img width="500" height="450" src="https://i1.wp.com/blog.kaggle.com/wp-content/uploads/2015/04/drop_shadows_background2.png?resize=1024%2C563">
+	<img width="550" height="450" src="https://i1.wp.com/blog.kaggle.com/wp-content/uploads/2015/04/drop_shadows_background2.png?resize=1024%2C563">
 </p>
 
 
