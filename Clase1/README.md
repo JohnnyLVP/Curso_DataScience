@@ -4,7 +4,9 @@ Se encuentra en la interseccion de las habilidades de Hacking (OS,Python, Base d
 
 Data Science, toma parte del Machine Learning (Modelos)
 
-![Imagen1](Imagenes/ciencia-de-datos.png){ width="800" height="600" style="display: block; margin: 0 auto" }
+<p align="center">
+	<img src="http://www.trcimplan.gob.mx/blog/introduccion-a-la-ciencia-de-datos-parte-1/ciencia-de-datos.png">
+</p>
 
 ## 1. Tipo de Datos: 
 
