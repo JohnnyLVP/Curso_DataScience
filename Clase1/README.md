@@ -5,12 +5,14 @@ Se encuentra en la interseccion de las habilidades de Hacking (OS,Python, Base d
 Data Science, toma parte del Machine Learning (Modelos)
 
 <p align="center">
-	<img src="http://www.trcimplan.gob.mx/blog/introduccion-a-la-ciencia-de-datos-parte-1/ciencia-de-datos.png">
+	<img width="400" height="300" src="http://www.trcimplan.gob.mx/blog/introduccion-a-la-ciencia-de-datos-parte-1/ciencia-de-datos.png">
 </p>
 
 ## 1. Tipo de Datos: 
 
-![Imagen2](Imagenes/piramidedatos.png)
+<p align="center">
+	<img width="400" height="300" src="http://3.bp.blogspot.com/-RngguMea6hA/VkAdN05YEqI/AAAAAAAABQE/iT6QP-9A7hE/s1600/piramide.png">
+</p>
 
 ## 2. Exploracion de Datos (EDA)
 
@@ -28,7 +30,10 @@ Encontrar patrones relevantes en la data sin modificacion
 * El creador es Van russel 
 * Beneficios:
 
-![Imagen3](Imagenes/features-of-python.png "Features of Python")
+<p align="center">
+	<img width="400" height="300" src="https://www.sitesbay.com/python/images/features-of-python.png">
+</p>
+
 
 ### 3.2. PreProccesing Issues
 
@@ -54,7 +59,11 @@ Encontrar patrones relevantes en la data sin modificacion
 * *Feature Extraction:* hay que quedarse con lo necesario.
 * *Feature Transformation:* Se modela la info, "tallandola", para tenerla como se necesita.
 
-![Imagen2](Imagenes/scikitlearn.jpeg)
+
+<p align="center">
+	<img width="400" height="300" src="https://i1.wp.com/blog.kaggle.com/wp-content/uploads/2015/04/drop_shadows_background2.png?resize=1024%2C563">
+</p>
+
 
 ## 5. Modeling
 
