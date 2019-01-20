@@ -52,7 +52,7 @@ Encontrar patrones relevantes en la data sin modificacion
 * *Feature Extraction:* hay que quedarse con lo necesario.
 * *Feature Transformation:* Se modela la info, "tallandola", para tenerla como se necesita.
 
-![Imagen2](Imagenes/scikitlearn.png)
+![Imagen2](Imagenes/scikitlearn.jpeg)
 
 ## 5. Modeling
 

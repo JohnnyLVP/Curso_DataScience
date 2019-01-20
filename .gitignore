@@ -8,7 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-build/
+build/+
+
 develop-eggs/
 dist/
 downloads/
@@ -102,3 +103,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Ignore Folders
+Clase1/Imagenes/
