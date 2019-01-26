@@ -13,6 +13,23 @@
 	<img width="400" height="300" src="https://images-eu.ssl-images-amazon.com/images/I/41SgFrdCatL.jpg">
 </p>
 
+## Anaconda
+
+Configuracion de Anaconda: 
+
+* En anaconda-prompt. ,para generar el archivo de configuracion. 
+
+```console
+jupyter notebook --generate-config 
+```
+	si desea cambiar la ubicacion donde inicia el jupyter hay que cambiar el *dir*
+
+```python
+c.NotebookApp.notebook_dir = 'C:/Users/admin/Desktop/Github/Curso_DataScience/Clase2/Codigo/'
+```
+
+* 
+
 
 
 
