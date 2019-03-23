@@ -1,0 +1,49 @@
+Contexto:
+Los datos se obtuvieron en una encuesta de estudiantes de matemáticas y cursos de idioma portugués en la escuela secundaria. Contiene mucha información social, de género y de estudio interesante sobre los estudiantes. Puede usarlo para algunos EDA o intentar predecir la calificación final de los estudiantes.
+
+Contenido:
+Atributos de los conjuntos de datos student-mat.csv (curso de matemáticas) y student-por.csv (curso de idioma portugués):
+
+escuela - escuela de estudiantes (binario: 'GP' - Gabriel Pereira o 'MS' - Mousinho da Silveira)
+sexo - sexo del estudiante (binario: 'F' - femenino o 'M' - masculino)
+edad - edad del estudiante (numérico: de 15 a 22)
+dirección - tipo de domicilio del estudiante (binario: 'U' - urbano o 'R' - rural)
+famsize - tamaño de la familia (binario: 'LE3' - menor o igual a 3 o 'GT3' - mayor que 3)
+Pstatus - estado de convivencia de los padres (binario: 'T' - viviendo juntos o 'A' - aparte)
+Medu - educación de la madre (numérica: 0 - ninguna, 1 - educación primaria (4º grado), 2 - 5º a 9º grado, 3 - educación secundaria o 4 - educación superior)
+Fedu - educación del padre (numérico: 0 - ninguno, 1 - educación primaria (4º grado), 2 - 5º a 9º grado, 3 - educación secundaria o 4 - educación superior)
+Mjob: trabajo de la madre (nominal: 'maestro', 'salud' relacionado con el cuidado, civil 'servicios' (por ejemplo, administrativo o policial), 'at_home' u 'otro')
+Fjob: trabajo del padre (nominal: 'maestro', 'salud' relacionado con el cuidado, civil 'servicios' (por ejemplo, administrativo o policial), 'at_home' u 'otro')
+razón - razón para elegir esta escuela (nominal: cerca de 'casa', 'reputación' de la escuela, preferencia de 'curso' u 'otra')
+tutor - tutor del estudiante (nominal: 'madre', 'padre' u 'otro')
+tiempo de viaje: tiempo de viaje de la casa a la escuela (numérico: 1 - <15 min., 2 - 15 a 30 min., 3 - 30 min. a 1 hora, o 4 -> 1 hora)
+tiempo de estudio - tiempo de estudio semanal (numérico: 1 - <2 horas, 2 - 2 a 5 horas, 3 - 5 a 10 horas, o 4 -> 10 horas)
+fallas: número de fallas de clases pasadas (numérico: n si 1 <= n <3, si no 4)
+schoolsup - apoyo extra educativo (binario: sí o no)
+famsup - apoyo educativo familiar (binario: sí o no)
+pagado - clases extra pagadas dentro de la materia del curso (matemáticas o portugués) (binario: sí o no)
+actividades - actividades extracurriculares (binario: sí o no)
+guardería - guardería asistida (binario: sí o no)
+superior - quiere tomar educación superior (binario: sí o no)
+Internet: acceso a Internet en casa (binario: sí o no)
+romántico - con una relación romántica (binario: sí o no)
+famrel - calidad de las relaciones familiares (numérico: de 1 - muy malo a 5 - excelente)
+freetime - tiempo libre después de la escuela (numérico: de 1 - muy bajo a 5 - muy alto)
+goout - salir con amigos (numérico: de 1 - muy bajo a 5 - muy alto)
+Dalc: consumo de alcohol en la jornada laboral (numérico: de 1: muy bajo a 5: muy alto)
+Walc - consumo de alcohol durante el fin de semana (numérico: de 1 - muy bajo a 5 - muy alto)
+salud - estado de salud actual (numérico: de 1 - muy malo a 5 - muy bueno)
+Ausencias - Número de ausencias escolares (numéricas: de 0 a 93)
+Estas calificaciones están relacionadas con la materia del curso, matemáticas o portugués:
+
+G1 - primer grado (numérico: de 0 a 20)
+G2 - segundo grado (numérico: de 0 a 20)
+G3 - calificación final (numérico: de 0 a 20, objetivo de salida)
+Nota adicional: hay varios (382) estudiantes que pertenecen a ambos conjuntos de datos. Estos estudiantes pueden identificarse buscando atributos idénticos que caracterizan a cada estudiante, como se muestra en el archivo R anexo.
+
+Fuente de información
+P. Cortez y A. Silva. Uso de la minería de datos para predecir el rendimiento de los estudiantes de secundaria. En A. Brito y J. Teixeira Eds., Actas de la 5ta. Conferencia de TECnología de FUture BUsiness (FUBUTEC 2008) págs. 5-12, Oporto, Portugal, abril de 2008, EUROSIS, ISBN 978-9077381-39-7.
+
+Fabio Pagnotta, Hossain Mohammad Amran. Correo electrónico: fabio.pagnotta@studenti.unicam.it, mohammadamra.hossain '@' studenti.unicam.it University Of Camerino
+
+https://archive.ics.uci.edu/ml/datasets/STUDENT+ALCOHOL+CONSUMPTION
